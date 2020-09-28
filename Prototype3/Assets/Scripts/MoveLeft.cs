@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Levi Wyant
+ * Prototype3
+ * Moves and object to the left
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

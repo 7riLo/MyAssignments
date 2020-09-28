@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Levi Wyant
+ * Prototype3
+ * Moves background to give the player the illusion the background is always moving
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

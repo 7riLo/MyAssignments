@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Levi Wyant
+ * Prototype3
+ * Spawns in objects such as the obstacle
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

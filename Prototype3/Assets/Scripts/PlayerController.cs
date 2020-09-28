@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Levi Wyant
+ * Prototype3
+ * player controller file. Player input, audio, and animation drivers
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
